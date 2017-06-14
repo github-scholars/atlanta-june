@@ -1,5 +1,5 @@
 ---
-title: Project 3
+title: Clean-Up Crew
 description: project 3 description
 ---
 
