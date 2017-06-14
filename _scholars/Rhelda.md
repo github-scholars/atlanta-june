@@ -1,6 +1,6 @@
 ---
 layout: generic
-title: Project 1
+title: Rhelda Vickers {rixhfeed}
 description: project 1 description
 ---
 
