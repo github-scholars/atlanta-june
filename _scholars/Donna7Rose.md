@@ -3,7 +3,22 @@ layout: generic
 title: Leah M. Fontenot
 description: Lazy, friendly-ish, lover of FRIES
 ---
-p {
+h1 {
+   text align: center;
+}
+h2 {
+   text align: center;
+}
+h3 {
+   text align: center;
+}
+h4 {
+   text align: center;
+}
+h5 {
+   text align: center;
+}
+h6 {
    text align: center;
 }
 <p><h2>I am a GitHub Scholar</h2>
